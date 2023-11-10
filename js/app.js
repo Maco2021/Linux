@@ -132,7 +132,6 @@ $("[data-scroll]").on("click", function (event) {
 function plusSlides(n) {
   showSlides((slideIndex += n));
 }
-
 // Hide element video slides
 
 // document.addEventListener("click", function handleClickOutsideBox(event) {
